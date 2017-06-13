@@ -3,27 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/mrcrow85/angular2-webpack-starter.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://192.168.0.237:3000/Innovaciones/reportes-angular.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Teradata/covalent-quickstart.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git-codecommit.us-west-2.amazonaws.com" />
-          <option name="userName" value="martin.mena@innovaciones.ec" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/mrcrow85/reports-angular.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mrcrow85/angular-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
