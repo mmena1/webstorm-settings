@@ -10,6 +10,10 @@
           <option name="url" value="http://git-codecommit.us-west-2.amazonaws.com" />
           <option name="userName" value="martin.mena@innovaciones.ec-at-668929258377" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mrcrow85/angular-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
