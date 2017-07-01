@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="install_dependencies" type="Bash" />
+      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
